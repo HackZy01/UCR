@@ -1,0 +1,71 @@
+{
+    "RepositoryName": "UCR",
+    "RepositoryDescription": "a Universal Cheat Repo built for you",
+    "RepositoryAuthor": "us",
+    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/UCR/main/assets/Repo.png",
+    "RepositoryWebsite": "https://github.com/hackzy01/UCR",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/hackzy01/UCR/main/assets/Header.png",
+    "RepositoryContents": [
+        {
+            "Name": "Subway Surfers Hack",
+            "Description": "That's what I call a pro-gamer move",
+            "Category": "Cheats",
+            "Caption": "Unlocks all the characters, boards and adds the optimal amount of coins, keys and boards... and a lot more",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot1.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot2.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot3.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
+                    "Description": ""
+                }
+            ],
+            "PackageID": "com.hackzy.subhack"
+        },
+        {
+            "Name": "Placeholder",
+            "Description": "Placeholder",
+            "Category": "Cheats",
+            "Caption": "Placeholder",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "",
+                "Links": [
+                    {
+                          "Label": "Placeholder",
+                        "Link": "Placeholder"
+                    }
+                ]
+            },
+            "Icon": "",
+            "Screenshot": [
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "",
+                    "Description": ""
+                }
+            ],
+            "PackageID": "placeholder"
+            }
+    ]
+}
