@@ -40,32 +40,32 @@
             "PackageID": "com.hackzy.subhack"
         },
         {
-            "Name": "Placeholder",
-            "Description": "Placeholder",
+            "Name": "Templerun2 Cheat",
+            "Description": "Maximize your gems and golds",
             "Category": "Cheats",
-            "Caption": "Placeholder",
+            "Caption": "Maximize your gems and golds",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "",
+                "Label": "iWishkem",
                 "Links": [
                     {
-                          "Label": "Placeholder",
-                        "Link": "Placeholder"
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
                     }
                 ]
             },
-            "Icon": "",
+            "Icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUwfEf8o1a_Q0DLZPAt1TKATxAolIPXP3wA&usqp=CAU",
             "Screenshot": [
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "",
-                    "Description": ""
+                    "Package": "https://github.com/HackZy01/UCR/raw/main/cheats/Templerun2Cheat.misaka",
+                    "Description": "Maximize your gems and golds"
                 }
             ],
-            "PackageID": "placeholder"
+            "PackageID": "www.iwishkem.tk.TempleRun2Cheat"
             }
     ]
 }
