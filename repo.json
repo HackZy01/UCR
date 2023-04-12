@@ -40,60 +40,32 @@
             "PackageID": "com.hackzy.subhack"
         },
         {
-            "Name": "Templerun2 Cheat",
-            "Description": "Maximize your gems and golds",
+            "Name": "Placeholder",
+            "Description": "Placeholder",
             "Category": "Cheats",
-            "Caption": "Maximize your gems and golds",
+            "Caption": "Placeholder",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "iWishkem",
+                "Label": "",
                 "Links": [
                     {
-                        "Label": "Instagram",
-                        "Link": "https://instagram.com/yasiin.arda"
+                          "Label": "Placeholder",
+                        "Link": "Placeholder"
                     }
                 ]
             },
-            "Icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUwfEf8o1a_Q0DLZPAt1TKATxAolIPXP3wA&usqp=CAU",
+            "Icon": "",
             "Screenshot": [
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/HackZy01/UCR/raw/main/cheats/Templerun2Cheat.misaka",
-                    "Description": "Maximize your gems and golds"
+                    "Package": "",
+                    "Description": ""
                 }
             ],
-            "PackageID": "www.iwishkem.tk.TempleRun2Cheat"
-            },
-        {
-             "Name": "Placeholder",
-             "Description": "Placeholder",
-             "Category": "Cheats",
-             "Caption": "Placeholder",
-             "MinIOSVersion": "15.0",
-             "MaxIOSVersion": "16.1.2",
-             "Author": {
-                 "Label": "",
-                 "Links": [
-                     {
-                           "Label": "Placeholder",
-                         "Link": "Placeholder"
-                     }
-                 ]
-             },
-             "Icon": "",
-             "Screenshot": [
-             ],
-             "Releases": [
-                 {
-                     "Version": "1.0",
-                     "Package": "",
-                     "Description": ""
-                 }
-             ],
-             "PackageID": "placeholder"
-             }
+            "PackageID": "placeholder"
+            }
     ]
 }
