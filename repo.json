@@ -66,6 +66,34 @@
                 }
             ],
             "PackageID": "www.iwishkem.tk.TempleRun2Cheat"
-            }
+            },
+        {
+             "Name": "Placeholder",
+             "Description": "Placeholder",
+             "Category": "Cheats",
+             "Caption": "Placeholder",
+             "MinIOSVersion": "15.0",
+             "MaxIOSVersion": "16.1.2",
+             "Author": {
+                 "Label": "",
+                 "Links": [
+                     {
+                           "Label": "Placeholder",
+                         "Link": "Placeholder"
+                     }
+                 ]
+             },
+             "Icon": "",
+             "Screenshot": [
+             ],
+             "Releases": [
+                 {
+                     "Version": "1.0",
+                     "Package": "",
+                     "Description": ""
+                 }
+             ],
+             "PackageID": "placeholder"
+             }
     ]
 }
