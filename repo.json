@@ -4,7 +4,10 @@
     "RepositoryAuthor": "us",
     "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/UCR/main/assets/Repo.png",
     "RepositoryWebsite": "https://github.com/hackzy01/UCR",
-    "DefaultHeaderImage": "https://raw.githubusercontent.com/hackzy01/UCR/main/assets/Header.png",
+    "Default":{
+    "HeaderImage": "https://raw.githubusercontent.com/hackzy01/UCR/main/assets/Header.png",
+    "ViewCount": true
+    },
     "RepositoryContents": [
         {
             "Name": "Subway Surfers Hack",
