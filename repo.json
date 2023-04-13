@@ -39,6 +39,34 @@
             ],
             "PackageID": "com.hackzy.subhack"
         },
+
+	    	{
+          "Name": "SlingCheat",
+          "Description": "Cheats for Sling Kong.",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/Sling.png",
+          "Category": "Cheats",
+          "Caption": "Unlimated money, all special skins for sling kong!",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/Sling.mp4"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/pkg/SlingCheat.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.SlingCheat"
+      },
         {
             "Name": "Placeholder",
             "Description": "Placeholder",
