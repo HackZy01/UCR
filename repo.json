@@ -1,74 +1,212 @@
 {
-    "RepositoryName": "UCR",
-    "RepositoryDescription": "a Universal Cheat Repo built for you",
-    "RepositoryAuthor": "us",
-    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/UCR/main/assets/Repo.png",
-    "RepositoryWebsite": "https://github.com/hackzy01/UCR",
-    "Default":{
+  "RepositoryName": "UCR",
+  "RepositoryDescription": "a Universal Cheat Repo built for you",
+  "RepositoryAuthor": "us",
+  "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/UCR/main/assets/Repo.png",
+  "RepositoryWebsite": "https://github.com/hackzy01/UCR",
+  "Default": {
     "HeaderImage": "https://raw.githubusercontent.com/hackzy01/UCR/main/assets/Header.png",
     "ViewCount": true
-    },
-    "RepositoryContents": [
+  },
+  "RepositoryContents": [
+    {
+      "Name": "Subway Surfers Hack",
+      "Description": "That's what I call a pro-gamer move",
+      "Category": "Cheats",
+      "Caption": "Unlocks all the characters, boards and adds the optimal amount of coins, keys and boards... and a lot more",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Author": {
+        "Label": "HackZy",
+        "Links": [
+          {
+            "Label": "GitHub",
+            "Link": "https://GitHub.com/hackzy01"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot1.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot2.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot3.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov"
+      ],
+      "Releases": [
         {
-            "Name": "Subway Surfers Hack",
-            "Description": "That's what I call a pro-gamer move",
-            "Category": "Cheats",
-            "Caption": "Unlocks all the characters, boards and adds the optimal amount of coins, keys and boards... and a lot more",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "HackZy",
-                "Links": [
-                    {
-                        "Label": "GitHub",
-                        "Link": "https://GitHub.com/hackzy01"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon.png",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot1.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot2.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot3.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
-                    "Description": ""
-                }
-            ],
-            "PackageID": "com.hackzy.subhack"
-        },
-
-	    	{
-          "Name": "SlingCheat",
-          "Description": "Cheats for Sling Kong.",
-          "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
-          "Author": {
-              "Label": "Fomri",
-              "Links": [
-                  {
-                      "Label": "Fomri",
-                      "Link": "https://github.com/fomri"
-                  }
-              ]
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
+          "Description": ""
+        }
+      ],
+      "PackageID": "com.hackzy.subhack"
+    },
+    {
+      "Name": "SlingCheat",
+      "Description": "Cheats for Sling Kong.",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Author": {
+        "Label": "Fomri",
+        "Links": [
+          {
+            "Label": "Fomri",
+            "Link": "https://github.com/fomri"
+          }
+        ]
+      },
+      "Icon": "https://github.com/Fomri/fomrirepo/raw/main/Sling.png",
+      "Category": "Cheats",
+      "Caption": "Unlimated money, all special skins for sling kong!",
+      "Screenshot": [
+        "https://github.com/Fomri/fomrirepo/raw/main/Sling.mp4"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/Fomri/fomrirepo/raw/main/pkg/SlingCheat.misaka",
+          "Description": "initial release"
+        }
+      ],
+      "PackageID": "com.fomri.SlingCheat"
+    },
+    {
+      "Name": "Sonic Dash Cheat",
+      "Description": "Hack Sonic Dash!",
+      "Author": {
+        "Label": "Diino",
+        "Links": [
+          {
+            "Label": "Github",
+            "Link": "https://github.com/ItsDiino"
           },
-          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/Sling.png",
-          "Category": "Cheats",
-          "Caption": "Unlimated money, all special skins for sling kong!",
-          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/Sling.mp4"],
-          "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/pkg/SlingCheat.misaka",
-                  "Description": "initial release"
-              }
-          ],
-          "PackageID": "com.fomri.SlingCheat"
-      }
-    ]
+          {
+            "Label": "Website",
+            "Link": "https://itsdiino.github.io/"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/diinodagoat"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/sonicdash_icon.png",
+      "Category": "Cheat",
+      "Caption": "Get a lot of coins and also unlock all characters!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/sonicdashvid.mp4"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/Sonic%20Dash%20Cheat.misaka",
+          "Description": "Initial release"
+        }
+      ],
+      "PackageID": "com.diino.sonicdashcheat"
+    },
+    {
+      "Name": "Hill Climb Racing Cheat",
+      "Description": "Hack Hill Climb Racing!",
+      "Author": {
+        "Label": "Diino",
+        "Links": [
+          {
+            "Label": "Github",
+            "Link": "https://github.com/ItsDiino"
+          },
+          {
+            "Label": "Website",
+            "Link": "https://itsdiino.github.io/"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/diinodagoat"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/hillclimb_icon.png",
+      "Category": "Cheat",
+      "Caption": "Gives you a ton of coins! If you ever somehow run out just reapply the hack.",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/hillclimb.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/Hill%20Climb%20Cheat.misaka",
+          "Description": "Initial release"
+        }
+      ],
+      "PackageID": "com.diino.hillclimbcheat"
+    },
+    {
+      "Name": "Real Racing 3 Cheat",
+      "Description": "Hack Real Racing 3!",
+      "Author": {
+        "Label": "Diino",
+        "Links": [
+          {
+            "Label": "Github",
+            "Link": "https://github.com/ItsDiino"
+          },
+          {
+            "Label": "Website",
+            "Link": "https://itsdiino.github.io/"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/diinodagoat"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/realracing_icon.png",
+      "Category": "Cheat",
+      "Caption": "A lot of currency and unlocks most of the cars! ⚠ You have a chance of getting banned so don't say I didn't warn you!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/realracing3.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/Real%20Racing%203%20Cheat.misaka",
+          "Description": "Initial release"
+        }
+      ],
+      "PackageID": "com.diino.realracing3cheat"
+    },
+    {
+      "Name": "2 3 4 Player Mini Games Cheat",
+      "Description": "Hack 234 Player Mini Games!",
+      "Author": {
+        "Label": "Diino",
+        "Links": [
+          {
+            "Label": "Github",
+            "Link": "https://github.com/ItsDiino"
+          },
+          {
+            "Label": "Website",
+            "Link": "https://itsdiino.github.io/"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/diinodagoat"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/234player_icon.png",
+      "Category": "Cheat",
+      "Caption": "A ton of coins and gems!",
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/234%20Player%20Cheat.misaka",
+          "Description": "Initial release"
+        }
+      ],
+      "PackageID": "com.diino.234playercheat"
+    }
+  ]
 }
